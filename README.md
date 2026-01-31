@@ -51,10 +51,9 @@ Through this project, we gained practical experience with the complete machine l
 
 ---
 
-## 📂 Project Structure
 
 
----
+
 
 ## 🛠️ Technologies Used
 
