@@ -102,4 +102,5 @@ You are free to:
 ## 👤 Author
 
 Rojina Dhakal 
+---
 Academic Machine Learning Project  
