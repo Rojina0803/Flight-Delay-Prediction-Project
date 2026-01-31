@@ -11,7 +11,7 @@ __pycache__/
 .env
 .venv
 venv/
-ENV/
+
 
 # =====================
 # Jupyter Notebook
@@ -40,14 +40,11 @@ data/
 logs/
 *.log
 
-# =====================
-# OS files
-# =====================
-.DS_Store
-Thumbs.db
+
 
 # =====================
 # IDEs
 # =====================
 .vscode/
 .idea/
+
